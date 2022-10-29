@@ -3,7 +3,7 @@ About easygui
 
 Home: https://github.com/robertlugg/easygui
 
-Package license: BSD-3-clause
+Package license: BSD-3-Clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/easygui-feedstock/blob/main/LICENSE.txt)
 
